@@ -49,8 +49,8 @@ module.exports = function (/* ctx */) {
 		vueRouterMode: 'hash', // available values: 'hash', 'history'
 		env: {
 			APP_NAME: 'Easy Aspataal',
-			API_URL: 'http://localhost:8060/',
-			API_PATH: 'http://localhost:8060/api/'
+			API_URL: 'http://3.111.63.143:8060/',
+			API_PATH: 'http://3.111.63.143:8060/api/'
 		},
 	  	
 		// transpile: false,
